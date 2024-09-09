@@ -2,10 +2,10 @@
 	{
 		"id": "edec56e2",
 		"image": {
-			"thumbnail": "waffle-thumbnail",
-			"mobile": "waffle-mobile",
-			"tablet": "waffle-tablet",
-			"desktop": "waffle-desktop"
+			"thumbnail": "waffleThumbnail",
+			"mobile": "waffleMobile",
+			"tablet": "waffleTablet",
+			"desktop": "waffleDesktop"
 		},
 		"name": "Waffle with Berries",
 		"category": "Waffle",
@@ -14,10 +14,10 @@
 	{
 		"id": "5835f5ad",
 		"image": {
-			"thumbnail": "creme-brulee-thumbnail",
-			"mobile": "creme-brulee-mobile",
-			"tablet": "creme-brulee-tablet",
-			"desktop": "creme-brulee-desktop"
+			"thumbnail": "cremeBruleeThumbnail",
+			"mobile": "cremeBruleeMobile",
+			"tablet": "cremeBruleeTablet",
+			"desktop": "cremeBruleeDesktop"
 		},
 		"name": "Vanilla Bean Crème Brûlée",
 		"category": "Crème Brûlée",
@@ -26,10 +26,10 @@
 	{
 		"id": "22798a18",
 		"image": {
-			"thumbnail": "macaron-thumbnail",
-			"mobile": "macaron-mobile",
-			"tablet": "macaron-tablet",
-			"desktop": "macaron-desktop"
+			"thumbnail": "macaronThumbnail",
+			"mobile": "macaronMobile",
+			"tablet": "macaronTablet",
+			"desktop": "macaronDesktop"
 		},
 		"name": "Macaron Mix of Five",
 		"category": "Macaron",
@@ -38,10 +38,10 @@
 	{
 		"id": "fd4e29d5",
 		"image": {
-			"thumbnail": "tiramisu-thumbnail",
-			"mobile": "tiramisu-mobile",
-			"tablet": "tiramisu-tablet",
-			"desktop": "tiramisu-desktop"
+			"thumbnail": "tiramisuThumbnail",
+			"mobile": "tiramisuMobile",
+			"tablet": "tiramisuTablet",
+			"desktop": "tiramisuDesktop"
 		},
 		"name": "Classic Tiramisu",
 		"category": "Tiramisu",
@@ -50,10 +50,10 @@
 	{
 		"id": "cbf1da32",
 		"image": {
-			"thumbnail": "baklava-thumbnail",
-			"mobile": "baklava-mobile",
-			"tablet": "baklava-tablet",
-			"desktop": "baklava-desktop"
+			"thumbnail": "baklavaThumbnail",
+			"mobile": "baklavaMobile",
+			"tablet": "baklavaTablet",
+			"desktop": "baklavaDesktop"
 		},
 		"name": "Pistachio Baklava",
 		"category": "Baklava",
@@ -62,10 +62,10 @@
 	{
 		"id": "9148ffde",
 		"image": {
-			"thumbnail": "meringue-thumbnail",
-			"mobile": "meringue-mobile",
-			"tablet": "meringue-tablet",
-			"desktop": "meringue-desktop"
+			"thumbnail": "meringueThumbnail",
+			"mobile": "meringueMobile",
+			"tablet": "meringueTablet",
+			"desktop": "meringueDesktop"
 		},
 		"name": "Lemon Meringue Pie",
 		"category": "Pie",
@@ -74,10 +74,10 @@
 	{
 		"id": "6c65f9f9",
 		"image": {
-			"thumbnail": "cake-thumbnail",
-			"mobile": "cake-mobile",
-			"tablet": "cake-tablet",
-			"desktop": "cake-desktop"
+			"thumbnail": "cakeThumbnail",
+			"mobile": "cakeMobile",
+			"tablet": "cakeTablet",
+			"desktop": "cakeDesktop"
 		},
 		"name": "Red Velvet Cake",
 		"category": "Cake",
@@ -86,10 +86,10 @@
 	{
 		"id": "0c2bfe92",
 		"image": {
-			"thumbnail": "brownie-thumbnail",
-			"mobile": "brownie-mobile",
-			"tablet": "brownie-tablet",
-			"desktop": "brownie-desktop"
+			"thumbnail": "brownieThumbnail",
+			"mobile": "brownieMobile",
+			"tablet": "brownieTablet",
+			"desktop": "brownieDesktop"
 		},
 		"name": "Salted Caramel Brownie",
 		"category": "Brownie",
@@ -98,10 +98,10 @@
 	{
 		"id": "c17a6810",
 		"image": {
-			"thumbnail": "panna-cotta-thumbnail",
-			"mobile": "panna-cotta-mobile",
-			"tablet": "panna-cotta-tablet",
-			"desktop": "panna-cotta-desktop"
+			"thumbnail": "pannaCottaThumbnail",
+			"mobile": "pannaCottaMobile",
+			"tablet": "pannaCottaTablet",
+			"desktop": "pannaCottaDesktop"
 		},
 		"name": "Vanilla Panna Cotta",
 		"category": "Panna Cotta",
