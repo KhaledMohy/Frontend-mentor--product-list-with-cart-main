@@ -1,0 +1,110 @@
+[
+	{
+		"id": "edec56e2",
+		"image": {
+			"thumbnail": "waffle-thumbnail",
+			"mobile": "waffle-mobile",
+			"tablet": "waffle-tablet",
+			"desktop": "waffle-desktop"
+		},
+		"name": "Waffle with Berries",
+		"category": "Waffle",
+		"price": 6.5
+	},
+	{
+		"id": "5835f5ad",
+		"image": {
+			"thumbnail": "creme-brulee-thumbnail",
+			"mobile": "creme-brulee-mobile",
+			"tablet": "creme-brulee-tablet",
+			"desktop": "creme-brulee-desktop"
+		},
+		"name": "Vanilla Bean Crème Brûlée",
+		"category": "Crème Brûlée",
+		"price": 7.0
+	},
+	{
+		"id": "22798a18",
+		"image": {
+			"thumbnail": "macaron-thumbnail",
+			"mobile": "macaron-mobile",
+			"tablet": "macaron-tablet",
+			"desktop": "macaron-desktop"
+		},
+		"name": "Macaron Mix of Five",
+		"category": "Macaron",
+		"price": 8.0
+	},
+	{
+		"id": "fd4e29d5",
+		"image": {
+			"thumbnail": "tiramisu-thumbnail",
+			"mobile": "tiramisu-mobile",
+			"tablet": "tiramisu-tablet",
+			"desktop": "tiramisu-desktop"
+		},
+		"name": "Classic Tiramisu",
+		"category": "Tiramisu",
+		"price": 5.5
+	},
+	{
+		"id": "cbf1da32",
+		"image": {
+			"thumbnail": "baklava-thumbnail",
+			"mobile": "baklava-mobile",
+			"tablet": "baklava-tablet",
+			"desktop": "baklava-desktop"
+		},
+		"name": "Pistachio Baklava",
+		"category": "Baklava",
+		"price": 4.0
+	},
+	{
+		"id": "9148ffde",
+		"image": {
+			"thumbnail": "meringue-thumbnail",
+			"mobile": "meringue-mobile",
+			"tablet": "meringue-tablet",
+			"desktop": "meringue-desktop"
+		},
+		"name": "Lemon Meringue Pie",
+		"category": "Pie",
+		"price": 5.0
+	},
+	{
+		"id": "6c65f9f9",
+		"image": {
+			"thumbnail": "cake-thumbnail",
+			"mobile": "cake-mobile",
+			"tablet": "cake-tablet",
+			"desktop": "cake-desktop"
+		},
+		"name": "Red Velvet Cake",
+		"category": "Cake",
+		"price": 4.5
+	},
+	{
+		"id": "0c2bfe92",
+		"image": {
+			"thumbnail": "brownie-thumbnail",
+			"mobile": "brownie-mobile",
+			"tablet": "brownie-tablet",
+			"desktop": "brownie-desktop"
+		},
+		"name": "Salted Caramel Brownie",
+		"category": "Brownie",
+		"price": 4.5
+	},
+	{
+		"id": "c17a6810",
+		"image": {
+			"thumbnail": "panna-cotta-thumbnail",
+			"mobile": "panna-cotta-mobile",
+			"tablet": "panna-cotta-tablet",
+			"desktop": "panna-cotta-desktop"
+		},
+		"name": "Vanilla Panna Cotta",
+		"category": "Panna Cotta",
+		"price": 6.5
+	}
+]

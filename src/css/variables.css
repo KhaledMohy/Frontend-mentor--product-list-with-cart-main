@@ -1,0 +1,63 @@
+/********** VARIABLES **********/
+:root {
+	/* Colors */
+	--c-white: hsl(0, 0%, 100%);
+	--c-red: hsl(14, 86%, 42%);
+	--c-green: hsl(159, 69%, 38%);
+	--c-rose-50: hsl(20, 50%, 98%);
+	--c-rose-100: hsl(13, 31%, 94%);
+	--c-rose-150: hsl(13, 31%, 90%);
+	--c-rose-300: hsl(14, 25%, 72%);
+	--c-rose-400: rgb(173, 137, 133);
+	--c-rose-500: hsl(12, 20%, 44%);
+	--c-rose-900: hsl(14, 65%, 9%);
+
+	--bg-overlay: hsl(0, 0%, 0%, 0.4);
+
+	/* Font Size */
+	--f-body: 1rem; /* 16px */
+	--f-heading-1: 3rem;
+	--f-display-lg: 1.72rem;
+	--f-text-lg: 1.125rem;
+
+	/* Font Family */
+	--f-red-hat: 'Red Hat Text', sans-serif;
+
+	/* Font Weight */
+	--f-regular: 400;
+	--f-semi-bold: 600;
+	--f-bold: 700;
+
+	/* Spaces */
+	--s-tn: 0.25rem;
+	--s-ex-sm: 0.5rem;
+	--s-sm: 0.75rem;
+	--s-md: 1rem;
+	--s-lg: 1.25rem;
+	--s-xl: 1.5rem;
+	--s-2xl: 1.75rem;
+	--s-3xl: 2rem;
+	--s-4xl: 2.5rem;
+	--s-5xl: 3rem;
+	--s-6xl: 4rem;
+
+	/* Radius */
+	--r-tn: 0.25rem;
+	--r-ex-sm: 0.5rem;
+	--r-sm: 0.75rem;
+	--r-md: 1rem;
+	--r-lg: 1.25rem;
+	--r-xl: 1.5rem;
+	--r-2xl: 1.75rem;
+	--r-3xl: 2rem;
+	--r-4xl: 2.5rem;
+	--r-5xl: 3rem;
+	--r-6xl: 4rem;
+
+	/* z */
+	--z-layer-1: 1;
+	--z-layer-2: 19;
+	--z-layer-3: 29;
+	--z-modal: 999;
+	--z-on-modal: 1019;
+}

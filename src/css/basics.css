@@ -1,0 +1,54 @@
+/********** BASICS **********/
+*,
+*::after,
+*::before {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+* {
+	scrollbar-width: 0px;
+}
+
+*::-webkit-scrollbar {
+	display: none;
+}
+
+html {
+	font-size: 100%;
+	touch-action: manipulation;
+	-webkit-tap-highlight-color: transparent;
+}
+
+body {
+	width: 100%;
+	min-height: 100vh;
+
+	font-size: var(--f-body);
+	font-family: var(--f-red-hat);
+	font-weight: var(--f-regular);
+
+	background-color: var(--c-rose-100);
+}
+
+button {
+	border: none;
+	outline: none;
+	background: none;
+	font-size: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	color: inherit;
+	cursor: pointer;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+ul li {
+	list-style: none;
+}

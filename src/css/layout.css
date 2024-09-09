@@ -1,0 +1,120 @@
+/********** MAIN LAYOUT **********/
+.app {
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	min-height: 100dvh;
+	height: 100%;
+}
+.app__container {
+	max-width: 92%;
+	width: 1440px;
+	position: relative;
+	margin: 0 auto;
+}
+.app__box {
+	width: 100%;
+	display: flex;
+	gap: var(--s-xl);
+	padding-block: var(--s-6xl);
+}
+
+.feed {
+	flex: 1;
+	width: 100%;
+}
+.feed__list {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	column-gap: var(--s-2xl);
+	row-gap: var(--s-3xl);
+}
+
+.cart {
+	position: relative;
+	width: 460px;
+	max-width: 32%;
+}
+.cart__container {
+	position: sticky;
+	top: var(--s-3xl);
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: auto;
+}
+
+.modal__wrapper {
+	position: fixed;
+	inset: 0;
+	z-index: var(--z-modal);
+	display: grid;
+	place-items: center;
+	padding-block: var(--s-lg);
+}
+.modal {
+	position: relative;
+	width: 86%;
+	max-width: 520px;
+	max-height: 90dvh;
+	overflow: hidden;
+	z-index: var(--z-on-modal);
+	border-radius: var(--r-sm);
+}
+.modal > .card {
+	border-radius: inherit !important;
+	max-height: 90dvh;
+}
+
+/********** BREAKPOINTS **********/
+/* 1024px */
+@media (max-width: 75em) {
+	.app__box {
+		flex-direction: column;
+		gap: var(--s-4xl);
+	}
+
+	.cart {
+		width: 100%;
+		max-width: 480px;
+		margin: 0 auto;
+	}
+	.cart__container {
+		position: relative;
+		top: initial;
+		left: initial;
+		right: initial;
+	}
+}
+
+/* 768px */
+@media (max-width: 48em) {
+	.app__container {
+		max-width: 86%;
+	}
+}
+
+@media (max-width: 36em) {
+	.feed__list {
+		grid-template-columns: repeat(auto-fit, minmax(182px, 1fr));
+	}
+
+	.modal__wrapper {
+		padding: 0px;
+		align-items: flex-end;
+	}
+
+	.modal {
+		width: 100%;
+		max-width: none;
+		border-bottom-left-radius: 0px;
+		border-bottom-right-radius: 0px;
+	}
+}
+
+/* 252px */
+@media (max-width: 22em) {
+	.app__container {
+		max-width: 92%;
+	}
+}
