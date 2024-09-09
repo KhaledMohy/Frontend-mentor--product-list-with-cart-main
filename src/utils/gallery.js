@@ -43,7 +43,7 @@ import waffleMobile from '../assets/images/image-waffle-mobile.jpg';
 import waffleDesktop from '../assets/images/image-waffle-desktop.jpg';
 import waffleTablet from '../assets/images/image-waffle-tablet.jpg';
 
-const images = import.meta.glob('../assets/images/*.jpg');
+// const images = import.meta.glob('../assets/images/*.jpg');
 
 // const gallery = {};
 
